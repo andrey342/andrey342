@@ -6,6 +6,8 @@ I design and build distributed backends in **.NET** and modular frontends in **A
 
 📍 Spain (open to relocation and remote) · 🟢 **Open to new opportunities**
 
+> ℹ️ **About my contribution graph:** around 370 of my commits from the last year (mostly private projects) were authored with an old work email that is no longer linked to this account, so GitHub doesn't count them yet. I'm reassigning them to this account, so the graph should soon reflect my real activity (~430+ contributions).
+
 ---
 
 ### 🧩 What I do
