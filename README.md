@@ -53,7 +53,9 @@ Also comfortable with: Java · Spring Boot · Node.js · React · Python · PHP/
 ### 🚀 Featured work
 
 - **MicroservicesGenerator** *(private, in progress)*: incremental code generator that turns JSON project definitions into complete .NET microservice solutions, with layered architecture, a dynamic YARP API Gateway, CAP + Redpanda messaging and Scriban templates.
-- **[Microservices-NET-test](https://github.com/andrey342/Microservices-NET-test)**: reference backend in .NET 9 with DDD, CQRS, Mediator, FluentValidation, Kafka, a YARP gateway and SQL Server, all started with Docker Compose.
+- **[HexaFleet](https://github.com/andrey342/hexafleet)**: vehicle renting microservice in .NET 9 on hexagonal architecture and DDD, with use cases and output ports, MediatR, MongoDB transactions, Testcontainers tests and Docker Compose.
+- **[Tramo](https://github.com/andrey342/tramo)**: education-financing backend that scores applications, signs loan or income share agreements and collects SEPA instalments. A NestJS modular monolith of hexagonal modules with a transactional outbox, BullMQ, PostgreSQL and Redis.
+- **[foreman](https://github.com/andrey342/foreman)**: Claude Code plugin that runs long work as background threads (implement → review → apply) from one chat. A watcher and a fixed state machine do the coordination, so routing the work costs no tokens.
 
 ### 🎓 Education
 
