@@ -4,7 +4,7 @@
 
 Right now I'm building **MSG (MicroservicesGenerator)**, solo and in public: you design your .NET microservices visually (domain, APIs, events) and it generates the whole solution in .NET 10, with DDD, CQRS, an API gateway, Docker, integration events and its own test suite. I build it coordinating AI agents, and that tooling is open source: [baton](https://github.com/andrey342/baton) and [foreman](https://github.com/andrey342/foreman).
 
-Before that, 6+ years shipping .NET and Angular to production in logistics, port operations, security, social care and IoT.
+Before that, 6+ years with .NET and Angular, on monoliths and microservices: new projects taken all the way to production and systems already running in it, in logistics, port operations, security, social care and IoT.
 
 📍 Madrid, Spain · I share the build on [X](https://x.com/andreykuzmin342) and [LinkedIn](https://www.linkedin.com/in/andrey-kuzmin-developer)
 
